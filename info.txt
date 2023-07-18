@@ -1,1 +1,9 @@
 https://www.youtube.com/watch?v=XlvsJLer_No&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM
+
+
+git init   
+git add .    
+git commit -m "Initial setup"
+git remote add origin https://github.com/Jasonteilliez/JT_Express_Test.git
+git branch -M main
+git push -u origin main
